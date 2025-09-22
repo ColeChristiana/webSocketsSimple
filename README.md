@@ -1,5 +1,7 @@
 ## Summary of Changes
 
+Shianne Henry & Cole Christiana
+
 Interface changes (shared.ts)
 
 - Added `hello` to ClientToServerEvents interface in shared.ts
